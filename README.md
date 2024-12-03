@@ -1,2 +1,2 @@
 # Information Visualisation
-Project(s) and Work related to Machine Learning
+Project(s) related to Machine Learning
